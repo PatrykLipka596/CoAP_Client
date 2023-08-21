@@ -1,6 +1,6 @@
 module CoAP_Client
 
-go 1.21.0
+go 1.18
 
 require github.com/plgd-dev/go-coap/v3 v3.1.4
 
